@@ -5,5 +5,10 @@ int main(){
     while (1)
     {
     printf("KUY");   
+    หี
+    หีฃ
+    หี
+    หี
+    
     }
 }
